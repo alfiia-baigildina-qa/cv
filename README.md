@@ -81,7 +81,7 @@
 
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">]()
+[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/alfiia-baigildina-qa/cv/blob/main/diplom.png)
 
 
 <br>
